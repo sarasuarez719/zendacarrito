@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/src/java/com/bolsos/modelo/ClienteDAO.java</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/src/java/com/bolsos/modelo/Producto.java</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/index.jsp</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/vistas/carrito.jsp</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/vistas/editProducto.jsp</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/vistas/Imprimir.jsp</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/src/java/com/bolsos/modelo/ComprasDAO.java</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/css/estilos.css</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/vistas/editUsuario.jsp</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/src/java/com/bolsos/modelo/Categoria.java</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/vistas/addProducto.jsp</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/js/funcionregistro.js</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/src/java/com/bolsos/modelo/Carrito.java</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/js/funciones.js</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/vistas/compras.jsp</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/vistas/iniciarSesion.jsp</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/vistas/DetalleCompra.jsp</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/src/java/com/bolsos/modelo/Rol.java</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/src/java/com/bolsos/controlador/Controlador.java</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/src/java/com/bolsos/modelo/ProductoDAO.java</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/src/java/com/bolsos/modelo/Tarjeta.java</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/src/java/com/bolsos/modelo/Pago.java</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/src/java/com/bolsos/modelo/DetalleCompra.java</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/miki/3D%20Objects/JAVA/CarritoZenda/web/vistas/addUsuario.jsp</file>
+        </group>
+    </open-files>
+</project-private>

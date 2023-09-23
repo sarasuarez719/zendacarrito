@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Permanent+Marker&family=Poppins:wght@400;500;600;700;800&display=swap');
+body {
+   font-family: 'Poppins', sans-serif;
+   list-style: none;
+
+}
+.btn2 {
+    background-color: #AB7E55 !important;
+    color: #ffffff;
+}
+
+.btn2:hover {
+     color: #ffffff;
+}
+
+.btn-4 {
+    background-color: #ff7800 !important;
+        color: #ffffff;
+ margin-left: 15px;
+}
+
+.btn-4:hover {
+     color: #ffffff;
+}
+
+.navbar {
+    padding: 30px 0;
+}
+
+.navbar a {
+    color: #0A0024;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    
+}
+
+
+.search-form {
+    border-radius: 25px;
+    border: 0;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.bnt-search {
+    background-color: #AB7E55;
+     border-radius: 25px;
+     border: 0;
+}
+
+.header {
+  margin-top: 10px;
+
+   
+}
+
+.header img {
+   width: 100%;
+}
+
+.header-txt {
+    width: 50%;
+    padding-right: 50px
+}
+
+.header-txt h1 {
+    color: #0A0024;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px;
+    line-height: 1;
+    font-weight: bold;
+    margin-bottom: 30px
+}
+
+.header-txt p {
+    font-size: 17px;
+      color: #0A0024;
+      margin-bottom: 50px
+}
+
+
+
+.btn-pe {
+    background: linear-gradient(90deg, rgba(152,64,241,1) 0%, rgba(104,40,251,1) 63%);
+    color: #ffffff !important;
+    padding: 17px 25px;
+    border-radius: 30px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+     font-size: 17px;
+}
+
+.service-area {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0;
+
+}
+
+.service1 {
+    flex-basis: calc(33.3% - 20px);
+    margin-right: 20px;
+        border-right: 1px solid #e5e5e5;
+}
+
+.service1 h3 {
+    color: #3d3d3d;
+    text-transform: capitalize;
+    font-size: 17px;
+}
+
+.service1 p {
+    color: #999;
+    font-size: 13px;
+   
+    letter-spacing: 0;
+    font-weight: 400;
+}
+
+.service1 img {
+    width: 40px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+
+.podruc1 {
+    width: 20%;
+    padding-right: 20px !important;
+}
+
+.podruc1 h4{
+    padding: 10px;
+    background-color:#AB7E55;
+    color: #ffffff;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+.bg-categoria {
+    background-color: #F2F2F2;
+}
+
+.bg-categoria a {
+    color: #0A0024;
+}
+
+.bg-categoria a:hover {
+    color: #cca680;
+}
+
+
+.podruc2 {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    
+}
+.widpro {
+   
+}
+
+.price-btn {
+    background-color: #ffba00;
+}
+
+
+
+/*
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Permanent Marker', cursive;
+
+
+*/
